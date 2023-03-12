@@ -1,0 +1,9 @@
+/* Syntax: font format */
+@font-face {
+	font-family: "gill";
+	src: url("../font/../font/GIL.TTF") format("truetype"); /* IE9+ Compat Modes */
+	
+}
+.fnt-gill {
+	font-family: "gill";
+}
